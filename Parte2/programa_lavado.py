@@ -1,13 +1,13 @@
 ####empieza el programa
-from tkinter import * 
-from tkinter import ttk
-raiz = Tk()
-raiz.geometry('300x200')
-raiz.configure(bg = 'beige')
-raiz.title('Programa Venta Lavado')
+#from tkinter import * 
+#from tkinter import ttk
+#raiz = Tk()
+#raiz.geometry('300x200')
+#raiz.configure(bg = 'beige')
+#raiz.title('Programa Venta Lavado')
 import json
 print ("****Bienvenido al Programa*****")
-ttk.Button(raiz, text='Salir', command=quit).pack(side=BOTTOM)
+#ttk.Button(raiz, text='Salir', command=quit).pack(side=BOTTOM)
 tipo_vehiculo=input('Ingrese el tipo de vehiculo: ')
 print()
 
