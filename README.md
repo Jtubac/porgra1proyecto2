@@ -1,5 +1,5 @@
 # porgra1proyecto2
-Proyecto de programación 1
+Entrega de proyecto 2
 
 Integrantes del Grupo:
 
