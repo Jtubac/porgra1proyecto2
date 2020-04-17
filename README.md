@@ -1,5 +1,4 @@
-# porgra1proyecto2
-Entrega de proyecto 2
+# Entrega de proyecto 2
 
 Integrantes del Grupo:
 
