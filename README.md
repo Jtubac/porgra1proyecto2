@@ -8,6 +8,6 @@ Diego Manuel Moreira Avalos   CARNE: 1990-19-15254
 
 Ejercicios
 
-Parte1
+Proyecto2
 
-Parte2
+Pilas.Colas
