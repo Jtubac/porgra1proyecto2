@@ -26,6 +26,7 @@ if let=='1':
         #print ('#####')
 
 elif let=='2':
+    #esta opcion forma una lista de archvios que se habian agregado
         print('Se seleccionaron los archivos')
         #definir la cola
         cola = deque ()
